@@ -1,6 +1,6 @@
 # Strogonoff de Frango :chicken:
 
-### Ingredientes ###
+### Ingredientes 
 
 - 600 g pechuga de pollo en cuadritos
 - 1 cdta ajo en polvo
